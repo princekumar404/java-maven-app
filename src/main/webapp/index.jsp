@@ -6,7 +6,7 @@
   
   <h2> this is a my website only </h2>
   
-  <> How r u  </h3>
+  <h3> How r u  </h3>
 
   <h4> My name is Prince kumar </h4>
 
